@@ -13,8 +13,12 @@
 <img align="left" alt="IntelliJ" width="35px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" />
 <img align="left" alt="Bootstrap" width="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg" />
 
+<br/>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4b33NTAuF5E"><img src="https://img.youtube.com/vi/4b33NTAuF5E/0.jpg" alt="MIND UPLOAD"></a>
+</div>
 
 
 
-[![Kurzgesagt](https://img.youtube.com/vi/4b33NTAuF5E/0.jpg)](https://www.youtube.com/watch?v=4b33NTAuF5E "Mind Upload")
 
