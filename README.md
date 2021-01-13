@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=4b33NTAuF5E"><img src="https://img.youtube.com/vi/4b33NTAuF5E/0.jpg" alt="MIND UPLOAD"></a>
+  <a href="https://www.youtube.com/watch?v=4b33NTAuF5E"><img src="https://img.youtube.com/vi/4b33NTAuF5E/0.jpg" target="_blank" alt="MIND UPLOAD"></a>
 </div>
 
 
